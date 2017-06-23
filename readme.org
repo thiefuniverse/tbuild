@@ -1,0 +1,1 @@
+a easy convenient cpp project management and build system
